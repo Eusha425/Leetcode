@@ -1,4 +1,7 @@
-# implemented in bubblesort, not optimised but accepted - need to work on it by utilising a much more optimal algorithm
+# 75. Sort Colors
+# Accepted in the faster implementation as well
+
+# implemented in bubblesort, not optimised but accepted - need to work on it by utilising a much more optimal algorithm (optimisation done see below function)
 
 def sort(nums):
     temp = 0

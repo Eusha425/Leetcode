@@ -1,3 +1,5 @@
+# 118. Pascal's Triangle
+
 def generate(numRows: int):
     sub_array = []
     main_array = [[1]]
